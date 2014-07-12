@@ -242,8 +242,23 @@ a {
 
 .header-full {
 width: 100%;
-background: #293f50;
-height: 500px;
+background: url(../images/bg-header.jpg);
+background-size: cover;
+height: 600px;
+}
+
+/* About */
+#about {
+background: #f2f2f2;
+min-height: 600px;
+}
+
+.imagem-about {
+float: left;
+width: 100%;
+}
+.imagem-about img {
+width: 100%;
 }
 
 
